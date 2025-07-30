@@ -1,0 +1,13 @@
+Year,Price_Per_SqFt_Min,Price_Per_SqFt_Avg,Price_Per_SqFt_Max,Growth_Factor
+2018,800,1200,2000,Pre-Port
+2019,850,1300,2200,Pre-Port
+2020,900,1400,2500,COVID Impact
+2021,1000,1600,3000,Recovery
+2022,1150,1850,3500,Port Announcement
+2023,1250,2200,4200,Construction Start
+2024,1442,2583,5960,Current
+2025,1650,3200,7500,Port Progress
+2026,2100,4000,9500,Port Completion
+2027,2800,5300,12000,Post-Port Boom
+2028,3500,6500,15000,Stabilization
+2030,5200,9500,22000,Mature Market

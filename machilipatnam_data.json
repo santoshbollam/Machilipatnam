@@ -1,0 +1,147 @@
+{
+  "city_info": {
+    "name": "Machilipatnam",
+    "alt_names": [
+      "Masulipatnam",
+      "Bandar",
+      "Masula"
+    ],
+    "district": "Krishna",
+    "state": "Andhra Pradesh",
+    "coordinates": {
+      "lat": 16.1875,
+      "lng": 81.1359
+    },
+    "population_2025": 245000,
+    "area_sq_km": 26.67,
+    "literacy_rate": 82.43,
+    "founded": "3rd Century BC"
+  },
+  "historical_timeline": [
+    {
+      "period": "3rd Century BC",
+      "event": "Satavahana Rule - Known as Maisolos",
+      "significance": "Ancient Port City"
+    },
+    {
+      "period": "1st Century AD",
+      "event": "Roman Trade - Famous for Muslin",
+      "significance": "International Trade Hub"
+    },
+    {
+      "period": "16th Century",
+      "event": "European Traders Arrival",
+      "significance": "Colonial Period Begins"
+    },
+    {
+      "period": "1605",
+      "event": "Dutch Trading Post Established",
+      "significance": "Dutch Factory"
+    },
+    {
+      "period": "1611",
+      "event": "British East India Company",
+      "significance": "First British Settlement on Bay of Bengal"
+    },
+    {
+      "period": "1779",
+      "event": "Major Cyclone",
+      "significance": "20,000 Deaths, Dutch Factory Damaged"
+    },
+    {
+      "period": "1947",
+      "event": "Independence",
+      "significance": "Modern Era Begins"
+    },
+    {
+      "period": "2023-2026",
+      "event": "Port Revival Project",
+      "significance": "New Greenfield Port Development"
+    }
+  ],
+  "major_projects": [
+    {
+      "name": "Machilipatnam Port Phase I",
+      "investment": 5155,
+      "status": "48% Complete",
+      "completion": 2026,
+      "employment": 10000,
+      "description": "New Greenfield deep-water port at Manginapudi"
+    },
+    {
+      "name": "MSME Park Gilakaladindi",
+      "investment": 300,
+      "status": "Planning",
+      "completion": 2025,
+      "employment": 2000,
+      "description": "Focus on aquaculture, Kalamkari, jewelry, and boat manufacturing"
+    },
+    {
+      "name": "Gilakaladindi Fishing Harbour",
+      "investment": 450,
+      "status": "57% Complete",
+      "completion": 2026,
+      "employment": 1500,
+      "description": "Modern fishing harbor facilities"
+    },
+    {
+      "name": "Machilipatnam-Repalle Railway",
+      "investment": 500,
+      "status": "DPR Stage",
+      "completion": 2027,
+      "employment": 500,
+      "description": "Enhanced connectivity for cargo and passengers"
+    },
+    {
+      "name": "Drainage System Revamp",
+      "investment": 165,
+      "status": "Approved",
+      "completion": 2026,
+      "employment": 200,
+      "description": "Complete municipal drainage overhaul"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Manginapudi Beach",
+      "type": "Natural",
+      "description": "Serene beach with black soil and shallow waters, 11km from city center"
+    },
+    {
+      "name": "Panduranga Swamy Temple",
+      "type": "Religious",
+      "description": "Ancient temple dedicated to Lord Panduranga Vithal with 3-foot Krishna statue"
+    },
+    {
+      "name": "Dutch Colonial Architecture",
+      "type": "Historical",
+      "description": "Well-preserved buildings from Dutch colonial period"
+    },
+    {
+      "name": "Kalamkari Art Centers",
+      "type": "Cultural",
+      "description": "Traditional textile art workshops and museums"
+    },
+    {
+      "name": "Machilipatnam Lighthouse",
+      "type": "Historical",
+      "description": "50-meter high lighthouse with black and white bands"
+    }
+  ],
+  "economy": {
+    "gdp_per_capita": 180000,
+    "major_industries": [
+      "Textiles",
+      "Fishing",
+      "Agriculture",
+      "Handloom",
+      "Salt Production"
+    ],
+    "traditional_crafts": [
+      "Kalamkari",
+      "Muslin Weaving",
+      "Boat Building"
+    ],
+    "port_capacity": "35 MMTPA initial, expandable to 116 MMTPA"
+  }
+}
